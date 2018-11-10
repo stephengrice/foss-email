@@ -1,0 +1,15 @@
+{
+  "name": "foss-email",
+  "version": "1.0.0",
+  "description": "open source email client prototype / research",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^1.8.4"
+  }
+}
